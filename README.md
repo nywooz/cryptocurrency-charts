@@ -1,6 +1,5 @@
 This project will create stunning real-time visualisations of cryptocurrency market data updates using the most popular libraries and technologies.
 
-### First clone, then install
+### First clone, then install and then start
 ### `npm i`
-Then
 ### `npm start`
