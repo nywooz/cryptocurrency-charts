@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/cryptocurrency-charts/static/js/main.a60a32b5.chunk.js",
+    "main.js.map": "/cryptocurrency-charts/static/js/main.a60a32b5.chunk.js.map",
+    "runtime-main.js": "/cryptocurrency-charts/static/js/runtime-main.5a044fb7.js",
+    "runtime-main.js.map": "/cryptocurrency-charts/static/js/runtime-main.5a044fb7.js.map",
+    "static/js/2.359df21f.chunk.js": "/cryptocurrency-charts/static/js/2.359df21f.chunk.js",
+    "static/js/2.359df21f.chunk.js.map": "/cryptocurrency-charts/static/js/2.359df21f.chunk.js.map",
+    "index.html": "/cryptocurrency-charts/index.html",
+    "precache-manifest.a5b4c84d3bc133ce6aac64ff635ee667.js": "/cryptocurrency-charts/precache-manifest.a5b4c84d3bc133ce6aac64ff635ee667.js",
+    "service-worker.js": "/cryptocurrency-charts/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a044fb7.js",
+    "static/js/2.359df21f.chunk.js",
+    "static/js/main.a60a32b5.chunk.js"
+  ]
+}
